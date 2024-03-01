@@ -67,5 +67,3 @@ Contributions to RestaurantSite are welcome! If you would like to contribute to 
 ## Contact
 
 For questions or feedback regarding RestaurantSite, please contact at [shailendrapal840@gmail.com](mailto:shailendrapal840@gmail.com).
-
-Feel free to customize this README to better fit your project's specifics. Let me know if you need further adjustments or have any other questions!
