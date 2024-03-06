@@ -7,7 +7,7 @@ RestaurantSite is a web application developed using the Django Web Framework. It
 - **Menu Page**: Display the menu items offered by the restaurant.
 - **Menu Item Page**: Provide detailed information about each menu item.
 - **Responsive Design**: Ensures compatibility across all devices, allowing customers to access the site from desktops, laptops, tablets, and smartphones.
-- **Booking Page**: Enable customers to make reservations directly through the website, with booking data stored in a database.
+- **Booking Page**: Enable customers to make reservations directly through the website, with booking data stored in a database and details can be seen on Reservations page in JSON.
 
 ## Technologies Used
 
