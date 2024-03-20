@@ -1,3 +1,11 @@
+# Screenshots:
+![Screenshot](Screenshots_of_RestaurantSite/Home.png)
+![Screenshot](Screenshots_of_RestaurantSite/About.png)
+![Screenshot](Screenshots_of_RestaurantSite/Menu.png)
+![Screenshot](Screenshots_of_RestaurantSite/Book.png)
+![Screenshot](Screenshots_of_RestaurantSite/Json_output.png)
+
+
 # RestaurantSite
 
 RestaurantSite is a web application developed using the Django Web Framework. It serves as a platform for a restaurant to showcase its menu, allow customers to make reservations, and store booking data in a database.
