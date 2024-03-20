@@ -4,6 +4,7 @@
 ![Screenshot](Screenshots_of_RestaurantSite/Menu.png)
 ![Screenshot](Screenshots_of_RestaurantSite/Book.png)
 ![Screenshot](Screenshots_of_RestaurantSite/Json_output.png)
+![Screenshot](Screenshots_of_RestaurantSite/Info_stored_in_database.png)
 
 
 # RestaurantSite
